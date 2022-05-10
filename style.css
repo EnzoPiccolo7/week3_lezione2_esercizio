@@ -1,0 +1,21 @@
+body div {
+    margin-top: 10rem;
+    margin-right: 70%;
+    margin-left: 10rem;
+    border: 5px rgb(210, 23, 23) solid;
+    padding-left: 2rem;
+    width: 700px;
+    height: 400px;
+}
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+p {
+    font-weight: strong
+     ;
+}
+#pariodisp {
+    font-size: 4rem;
+    color: brown;
+}
